@@ -3,7 +3,7 @@
 icon: fas fa-info-circle
 order: 4
 ---
-pushしてみる
+
 # 自己紹介
 
 都内の中高一貫校に通う高校2年生です。
