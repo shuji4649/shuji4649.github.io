@@ -36,9 +36,9 @@ pushしてみる
 ロボカップジュニアのレスキューリーグに出場している3人チームです。
 自分はキャプテン・回路担当をしています。
 
-HP：[https://tuton-rcj.github.io/](https://tuton-rcj.github.io/)
-Twitter：[https://twitter.com/tuton_rcj](https://twitter.com/tuton_rcj)
-YouTube: [https://www.youtube.com/@tuton_rcj](https://www.youtube.com/@tuton_rcj)
+- HP：[https://tuton-rcj.github.io/](https://tuton-rcj.github.io/)
+- Twitter：[https://twitter.com/tuton_rcj](https://twitter.com/tuton_rcj)
+- YouTube: [https://www.youtube.com/@tuton_rcj](https://www.youtube.com/@tuton_rcj)
 
 | 年   | 内容                                                       |
 | ---- | ---------------------------------------------------------- |
